@@ -1,3 +1,7 @@
+import Pagination from "@/app/ui/invoices/pagination";
+
+
+
 
 const invoices = () => {
     return (
